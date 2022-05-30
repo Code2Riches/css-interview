@@ -1,33 +1,25 @@
 h1 {
-    border: 1px solid blue;
-    color: rgb(224, 82, 21);
-    text-align: center;
+    color: rgb(165, 17, 17);
+    margin-left: 20px;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 div {
-    text-align: right;
+    border: 5px solid rgb(93, 93, 224);
+    padding: 25px;
+    background-color: aliceblue;
 }
 
-#summer {
-    background-color: orange;
+img {
+    border-radius: 50px;
+}
+
+li {
+    font-style: italic;
+    margin: 10px;
+}
+
+p {
     font-style: italic;
 }
 
-.bordered{
-    border: 5px solid green;
-    border-radius: 20px;
-}
-
-ol {
-    color: blue;
-}
-
-#first {
-    background-color: aqua;
-}
-
-
-li {
-    margin: 10px;
-    padding: 10px;
-}
